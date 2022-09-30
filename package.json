@@ -1,5 +1,5 @@
 {
-  "name": "@swarm/babel-preset",
+  "name": "@bipboys/babel-preset",
   "version": "0.0.1",
   "author": "Bipboys Dev Team",
   "main": "index.js",
@@ -21,8 +21,5 @@
   },
   "engines": {
     "node": ">=18.9.0"
-  },
-  "publishConfig": {
-    "@swarm:registry": "https://gitlab.biptik.ru/api/v4/projects/36/packages/npm/"
   }
 }
