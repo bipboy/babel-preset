@@ -1,6 +1,6 @@
 {
   "name": "@bipboys/babel-preset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Bipboys Dev Team",
   "main": "index.js",
   "dependencies": {
@@ -20,6 +20,6 @@
     "@babel/core": "^7.19.3"
   },
   "engines": {
-    "node": ">=18.9.0"
+    "node": ">=18.10.0"
   }
 }
