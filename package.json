@@ -1,6 +1,6 @@
 {
   "name": "@bipboys/babel-preset",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Bipboys Dev Team",
   "main": "index.js",
   "dependencies": {
